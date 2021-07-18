@@ -6,7 +6,7 @@ RUN cd /tmp && mvn package -DskipTests -Pci -q && mv target/symphony/* /opt/sym/
 && cp -f /tmp/src/main/resources/docker/* /opt/sym/
 
 FROM openjdk:8-alpine
-LABEL maintainer="Liang Ding<845765@qq.com>"
+LABEL maintainer="nickoo<1410432625@qq.com>"
 
 WORKDIR /opt/sym/
 COPY --from=MVN_BUILD /opt/sym/ /opt/sym/

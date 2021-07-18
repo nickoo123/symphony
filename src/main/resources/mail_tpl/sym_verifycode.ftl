@@ -115,19 +115,6 @@
                                                                     <p align="left" style="font-size:18px;line-height:24px;color:#333;font-weight:bold;margin-top:0px;margin-bottom:18px;font-family:Helvetica,Arial,sans-serif">
                                                                         黑客与画家
                                                                     </p>
-                                                                    <div align="left" style="font-size:13px;line-height:20px;color:#444444;margin-top:0px;margin-bottom:18px;font-family:Helvetica,Arial,sans-serif">
-                                                                        <table>
-                                                                            <tbody><tr style="border-collapse:collapse">
-                                                                                    <td style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:20px;padding:0 0 15px">
-                                                                                        <ul>
-                                                                                            <li>我们正在构建一个活跃的小众社区</li>
-                                                                                            <li>大家在这里相互信任，以 平等 • 自由 • 奔放 的价值观进行分享交流</li>
-                                                                                            <li>最终，希望大家能够找到与自己志同道合的伙伴，共同成长</li>
-                                                                                        </ul>
-                                                                                    </td>
-                                                                                </tr>                                                        
-                                                                            </tbody></table>
-                                                                    </div>
                                                                 </td>
                                                             </tr>
                                                         </tbody>

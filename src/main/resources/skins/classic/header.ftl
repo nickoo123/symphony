@@ -34,6 +34,16 @@
             <svg>
                 <use xlink:href="#refresh"></use>
             </svg> ${latestLabel}</a>
+        <a pjax-title="${latestLabel} - ${symphonyLabel}"
+           href="${servePath}/recent"<#if selected?? && 'recent' == selected> class="current"</#if>>
+            <svg>
+                <use xlink:href="#refresh"></use>
+            </svg> ${latestLabel}</a>
+        <a pjax-title="${latestLabel} - ${symphonyLabel}"
+           href="${servePath}/recent"<#if selected?? && 'recent' == selected> class="current"</#if>>
+            <svg>
+                <use xlink:href="#refresh"></use>
+            </svg> ${latestLabel}</a>
         <a pjax-title="${qnaLabel} - ${symphonyLabel}"
            href="${servePath}/qna"<#if selected?? && 'qna' == selected> class="current"</#if>>
             <svg>

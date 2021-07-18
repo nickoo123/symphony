@@ -1,8 +1,6 @@
 <p align = "center">
 <img alt="Sym" src="https://b3log.org/images/brand/sym-128.png">
 <br><br>
-下一代的社区系统，为未来而构建
-<br><br>
 <a title="Build Status" target="_blank" href="https://travis-ci.org/88250/symphony"><img src="https://img.shields.io/travis/88250/symphony.svg?style=flat-square"></a>
 <a title="Docker Image CI" target="_blank" href="https://github.com/88250/symphony/actions"><img src="https://img.shields.io/github/workflow/status/88250/symphony/Docker%20Image%20CI?label=Actions&logo=github&style=flat-square"></a>
 <a title="Code Size" target="_blank" href="https://github.com/88250/symphony"><img src="https://img.shields.io/github/languages/code-size/88250/symphony.svg?style=flat-square"></a>

@@ -71,46 +71,6 @@
             <organizationUrl>https://b3log.org</organizationUrl>
             <timezone>+8</timezone>
         </developer>
-
-        <developer>
-            <id>84588990@qq.com</id>
-            <name>Liyuan Li</name>
-            <email>84588990@qq.com</email>
-            <url>http://vanessa.b3log.org</url>
-            <roles>
-                <role>Committer</role>
-            </roles>
-            <organization>B3log</organization>
-            <organizationUrl>https://b3log.org</organizationUrl>
-            <timezone>+8</timezone>
-        </developer>
-
-        <developer>
-            <id>wmainlove@gmail.com</id>
-            <name>Liceng Yao</name>
-            <email>wmainlove@gmail.com</email>
-            <url>http://love.b3log.org</url>
-            <roles>
-                <role>Committer</role>
-            </roles>
-            <organization>B3log</organization>
-            <organizationUrl>https://b3log.org</organizationUrl>
-            <timezone>+8</timezone>
-        </developer>
-
-        <developer>
-            <id>O2895205695@gmail.com</id>
-            <name>Zephyr Cheung</name>
-            <email>O2895205695@gmail.com</email>
-            <url>https://ld246.com/member/ZephyrJung</url>
-            <roles>
-                <role>Committer</role>
-            </roles>
-            <organization>B3log</organization>
-            <organizationUrl>https://b3log.org</organizationUrl>
-            <timezone>+8</timezone>
-        </developer>
-
     </developers>
 
     <issueManagement>
