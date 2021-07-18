@@ -45,7 +45,7 @@
                     <#if footerBeiAnHao != ''>
                         <a href="http://www.miitbeian.gov.cn/" target="_blank">${footerBeiAnHao}</a> •
                     </#if>
-                    © 2012-present <a href="https://b3log.org" target="_blank">B3log 开源</a> •
+                     © 2021 <a href="https://b3log.org" target="_blank">B3log 开源</a> •
                     <a href="https://b3log.org/sym" target="_blank">Sym</a>
                 ${version}
                 </div>
