@@ -226,9 +226,9 @@ public class DataModelService {
         try {
             for (int i = 0; i < 13; i++) {
                 final JSONObject tag = new JSONObject();
-                tag.put(Tag.TAG_URI, "sym");
+                tag.put(Tag.TAG_URI, "八斗米");
                 tag.put(Tag.TAG_ICON_PATH, Latkes.getStaticServePath() + "/images/tags/sym.png");
-                tag.put(Tag.TAG_TITLE, "Sym");
+                tag.put(Tag.TAG_TITLE, "八斗米");
 
                 dataModel.put(Tag.TAG + i, tag);
             }

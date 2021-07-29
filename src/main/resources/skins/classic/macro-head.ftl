@@ -24,12 +24,12 @@
 <title>${title}</title>
 <#nested>
 <link rel="preconnect" href="${staticServePath}">
-<meta name="copyright" content="B3log" />
+<meta name="copyright" content="八斗米" />
 <meta http-equiv="Window-target" content="_top" />
 <link rel="stylesheet" href="${staticServePath}/css/responsive.css?${staticResourceVersion}" />
 <link rel="stylesheet" href="${staticServePath}/css/base.css?${staticResourceVersion}" />
 <link rel="icon" type="image/png" href="${staticServePath}/images/favicon.png" />
 <link rel="apple-touch-icon" href="${staticServePath}/images/faviconH.png">
-<link rel="search" type="application/opensearchdescription+xml" title="Sym" href="/opensearch.xml">
+<link rel="search" type="application/opensearchdescription+xml" title="八斗米" href="/opensearch.xml">
 ${siteVisitStatCode}
 </#macro>

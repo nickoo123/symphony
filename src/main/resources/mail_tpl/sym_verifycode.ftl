@@ -85,7 +85,7 @@
                             <tr style="border-collapse:collapse">
                                 <td width="640" align="center" bgcolor="#FFFFFF" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif">
                                     <a href="${servePath}" target="_blank">
-                                        <img height="140" width="640" src="${staticServePath}/images/mail/verify-banner1.png" alt="Sym">
+                                        <img height="140" width="640" src="${staticServePath}/images/mail/verify-banner1.png" alt="八斗米">
                                     </a>
                                 </td>
                             </tr>
