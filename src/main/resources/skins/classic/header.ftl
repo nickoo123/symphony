@@ -29,21 +29,21 @@
            href="${servePath}/domain/${domain.domainURI}"<#if selected?? && selected == domain.domainURI>
            class="current"</#if>>${domain.domainIconPath} ${domain.domainTitle}</a>
         </#list>
-        <a pjax-title="${latestLabel} - ${symphonyLabel}"
+        <a pjax-title="${homeLabel} - ${symphonyLabel}"
+           href="${servePath}"<#if selected?? && 'index' == selected> class="current"</#if>>
+            <svg>
+                <use xlink:href="refresh"></use>
+            </svg> ${homeLabel}</a>
+        <a pjax-title="${hotLabel} - ${symphonyLabel}"
+           href="${servePath}/hot"<#if selected?? && 'hot' == selected> class="current"</#if>>
+            <svg>
+                <use xlink:href="#iconHot"></use>
+            </svg> ${hotLabel}</a>
+        <a pjax-title="${recentLabel} - ${symphonyLabel}"
            href="${servePath}/recent"<#if selected?? && 'recent' == selected> class="current"</#if>>
             <svg>
-                <use xlink:href="#refresh"></use>
-            </svg> ${latestLabel}</a>
-        <a pjax-title="${latestLabel} - ${symphonyLabel}"
-           href="${servePath}/recent"<#if selected?? && 'recent' == selected> class="current"</#if>>
-            <svg>
-                <use xlink:href="#refresh"></use>
-            </svg> ${latestLabel}</a>
-        <a pjax-title="${latestLabel} - ${symphonyLabel}"
-           href="${servePath}/recent"<#if selected?? && 'recent' == selected> class="current"</#if>>
-            <svg>
-                <use xlink:href="#refresh"></use>
-            </svg> ${latestLabel}</a>
+                <use xlink:href="#iconRecent"></use>
+            </svg> ${recentLabel}</a>
         <a pjax-title="${qnaLabel} - ${symphonyLabel}"
            href="${servePath}/qna"<#if selected?? && 'qna' == selected> class="current"</#if>>
             <svg>

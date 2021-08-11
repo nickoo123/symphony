@@ -69,7 +69,7 @@ public class LinkQueryService {
             final List<JSONObject> links = linkRepository.select("SELECT\n" +
                     "\t*\n" +
                     "FROM\n" +
-                    "\t`symphony_link`\n" +
+                    "\t`badoumi_link`\n" +
                     "WHERE\n" +
                     "\tlinkPingErrCnt / linkPingCnt < 0.1\n" +
                     "AND linkTitle != \"\"\n" +
